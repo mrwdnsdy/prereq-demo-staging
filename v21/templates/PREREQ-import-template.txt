@@ -1,0 +1,16 @@
+Project: Substation Expansion — Example
+Phase: Engineering
+1. Preliminary Design
+   1.1 Kickoff & data collection — 5d
+   1.2 Prepare preliminary design — 10d
+   1.3 Review & approve — 5d
+Milestone: Preliminary Design Approved
+2. Detailed Design
+   2.1 Prepare detailed drawings — 15d
+   2.2 Internal review — 5d
+Phase: Procurement & Construction
+3. Procurement
+   3.1 Issue RFQ — 5d
+   3.2 Evaluate bids & award — 10d
+4. Construction — 40d
+Milestone: Commissioning Complete
